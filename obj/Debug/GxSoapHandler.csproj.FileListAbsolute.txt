@@ -1,0 +1,16 @@
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\obj\Debug\GxSoapHandler.csprojResolveAssemblyReference.cache
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\GxSoapHandler.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\GxSoapHandler.pdb
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\GeneXus.Programs.Common.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\GxClasses.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\log4net.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\Interop.SQLDMO.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\Jayrock-JSON.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\TZ4Net.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\Npgsql.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\MySQLDriverCS.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\Mono.Security.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\GeneXus.Programs.Common.pdb
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\obj\Debug\GxSoapHandler.dll
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\obj\Debug\GxSoapHandler.pdb
+C:\Proyectos\ProyVStudio\GxSoapHandler\GxSoapHandler\bin\Debug\TAFACE2Sign.dll
