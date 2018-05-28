@@ -19,18 +19,17 @@ using GeneXus.Utils;
             String Clientpassword = Parameter[4];
             String ServUri = Parameter[5];
 
-            if (eoName == "WS_eFactura")   // Este es el nombre dele external object para filtrar
+            if (eoName == "WS_eFactura")   // Este es el nombre del external object para filtrar, en este ejemplo EfacturaUy
             {
 
                 // Aca se implementa la configuracion del serviceClient segun corresponda, por ejemplo: 
                 ClientBase<ISdtWS_eFactura> svc = serviceClient as ClientBase<ISdtWS_eFactura>;
 
-
                 //Seteo el protection level por programa 
                 svc.Endpoint.Contract.ProtectionLevel = System.Net.Security.ProtectionLevel.Sign;
 
 
-                //Declaro el objeto donde voy a guardar el Certificado desde el path del archivo // array de bytes
+                //Declaro el objeto donde voy a guardar el Certificado desde el path del archivo, Cliente y DGI 
                 System.Security.Cryptography.X509Certificates.X509Certificate2 crtCLI;
                 System.Security.Cryptography.X509Certificates.X509Certificate2 crtDGI;
 
